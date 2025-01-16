@@ -18,4 +18,5 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./VirtualBox_kali-linux-1.png "Optional title")
+![Alt text](./VirtualBox_kali-linux-2.png "Optional title")
